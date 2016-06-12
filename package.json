@@ -12,6 +12,15 @@
   },
   "author": "CarrylSorene",
   "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "body-parser": "^1.14.1",
+    "ejs": "^2.3.4",
+    "mongoose": "^4.1.9"
+  },
+  "engines": {
+    "node": "4.2.2"
+  },
   "bugs": {
     "url": "https://github.com/CarrylSorene/photo-app/issues"
   },
